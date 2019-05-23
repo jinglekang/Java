@@ -1,0 +1,31 @@
+<formExport version="2.0">
+    <summary id="" name="formmain_0013"/>
+    <definitions/>
+    <values>
+        <column name="编号">
+            <value/>
+        </column>
+        <column name="日期">
+            <value><![CDATA[2018-10-23]]></value>
+        </column>
+        <column name="姓名">
+            <value><![CDATA[7029804195175679885]]></value>
+        </column>
+        <column name="部门">
+            <value><![CDATA[7246666096663807704]]></value>
+        </column>
+        <column name="开始时间">
+            <value><![CDATA[2018-10-23]]></value>
+        </column>
+        <column name="结束时间">
+            <value><![CDATA[2018-10-24]]></value>
+        </column>
+        <column name="请假类型">
+            <value><![CDATA[1]]></value>
+        </column>
+        <column name="共计时间">
+            <value><![CDATA[1]]></value>
+        </column>
+    </values>
+    <subForms/>
+</formExport>

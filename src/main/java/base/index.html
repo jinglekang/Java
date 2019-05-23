@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="btn" type="text">
+<p id="num">Hello</p>
+<script type="text/javascript">
+    btn.onchange = function () {
+        var x = document.getElementById("num");
+        x.innerHTML = "Hello JavaScript";
+        var no = document.getElementById("btn").value;
+        if (isNaN(no)) {
+            alert("Not Numeric");
+        }
+    }
+
+</script>
+</body>
+</html>
